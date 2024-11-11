@@ -1,13 +1,15 @@
-![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXUxNjZraWI2Mm15d3E0bjcwbG9qamN6Z3JjaXpwZjQxdm1sMjZyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif)
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZjZWE3ZG1pOHp4MThzYTd2ejJiZXh2N3N4eGdrbDh3bGJ4dGs5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif" alt="MasterHead" width="100%" style="max-height: 100px; object-fit: cover; border-radius: 10px;">
 
 <h1 align="center">Hi 👋, I'm Sai Priya Reddy Palamari</h1>
 <h3 align="center">Do or do not, there is no try—unless you're writing tests.</h3>
-<img align = “right” alt="Coding” width ="400" src = "https://private-user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzEzNDY3MjEsIm5iZiI6MTczMTM0NjQyMSwicGF0aCI6Ii83NDAzODE5MC8yNTY5NzcxODAtNTRmYjdlZWYtYjFlOC00MWRjLWJlOTctNTdlNDE4MGIzYjI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTExVDE3MzM0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg2NWQ1ZjQzZjhkZTliY2EwMGMwNTljZDE1YjcxYTdlNGExYjAwMjUwZTY1MWMxZDQxMmMyYmMzM2NkNjcwNjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.oW9csOueN-YY8VsYpMWr7FgR53O_VWCriG3bC-2P140"> 
+<p align="left">
+  <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/104/205/original/image_processing20210301-3601-w1fbuc.gif?1700151755" alt="Coding GIF" width="200" align="right" style="border-radius: 10px;">
+</p>
 
-
-- 📫 How to reach me **saipriyareddy.palamari@gmail.com**
-
-- ⚡ Fun fact **I can spend hours fixing a bug, only to realize it was a typo. My keyboard is really testing my patience.**
+- 👩🏻‍💻 I’m a software developer by day, bug bounty hunter by night!
+- 👩🏻‍🎓 Master of Science Grad from The University of Texas at Dallas
+- 📧 reach me @ **saipriyareddy.palamari@gmail.com**
+- ⚡I can spend hours fixing a bug, only to realize it was a typo. My keyboard is really testing my patience.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
