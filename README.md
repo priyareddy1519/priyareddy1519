@@ -1,4 +1,5 @@
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZjZWE3ZG1pOHp4MThzYTd2ejJiZXh2N3N4eGdrbDh3bGJ4dGs5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif" alt="MasterHead" width="100%" style="max-height: 10px; object-fit: cover; border-radius: 10px;">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZjZWE3ZG1pOHp4MThzYTd2ejJiZXh2N3N4eGdrbDh3bGJ4dGs5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif" alt="MasterHead" width="100%" style="max-height: 150px; 
+  object-fit: cover; border-radius: 10px;">
 
 <h1 align="center">Hi 👋, I'm Sai Priya Reddy Palamari</h1>
 <h3 align="center">Do or do not, there is no try—unless you're writing tests.</h3>
