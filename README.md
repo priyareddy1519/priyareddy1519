@@ -1,10 +1,7 @@
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZjZWE3ZG1pOHp4MThzYTd2ejJiZXh2N3N4eGdrbDh3bGJ4dGs5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif" alt="MasterHead" width="100%" style="max-height: 100px; object-fit: cover; border-radius: 10px;">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZjZWE3ZG1pOHp4MThzYTd2ejJiZXh2N3N4eGdrbDh3bGJ4dGs5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif" alt="MasterHead" width="100%" style="max-height: 10px; object-fit: cover; border-radius: 10px;">
 
 <h1 align="center">Hi 👋, I'm Sai Priya Reddy Palamari</h1>
 <h3 align="center">Do or do not, there is no try—unless you're writing tests.</h3>
-<p align="left">
-  <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/104/205/original/image_processing20210301-3601-w1fbuc.gif?1700151755" alt="Coding GIF" width="200" align="right" style="border-radius: 10px;">
-</p>
 
 - 👩🏻‍💻 I’m a software developer by day, bug bounty hunter by night!
 - 👩🏻‍🎓 Master of Science Grad from The University of Texas at Dallas
